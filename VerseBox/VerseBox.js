@@ -34,13 +34,19 @@ if(prompt =
 
 // My 7-9 Verses:
 console.log("Here are the verses I have gotton from 7-9: [To view the full verse, type the verse name as instructed below]");
-console.log("Verse");
-console.log("Verse");
-console.log("Verse");
-console.log("Verse");
+console.log("Psalms 145:9 [Type 'PSALMSONEFOUR']");
+console.log("Psalms 118:24 [Type 'PSALMSONEEONE']");
+console.log("James 1:17 [Type 'JAMESONE']");
 prompt("So which verse do you want to view? Type the word inside of the brackets to view that particular verse.");
-
-
+if(prompt = "psalmsonefour".toUppercase) {
+	console.log("Psalms 145:9: 'The Lord is good to all'.");
+} else if(prompt = "psalmsoneone".toUppercase) {
+	console.log("Psalms 118:24: 'This is the day the Lord has made. Let us rejoice and be glad in it'.");
+} else if (prompt = "jamesone".toUppercase) {
+	console.log("James 1:17: 'Every good gift and every perfect gift is from above'.");
+} else {
+	console.log("Oops! It didn't work...Try typing in one of the words inside the brackets above to view the full verse!");
+}
 // The Finish Line (End):
 console.log("Well, that is the end of this app! I hope you liked it!");
 console.log("You can view this project on GitHub at github.com/JwBZx/VerseBox");
