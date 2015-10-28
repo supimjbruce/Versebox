@@ -1,5 +1,6 @@
 # VerseBox
 Welcome to VerseBox!
+
 By @JwBZx (github.com/JwBZx)
 
 VerseBox is a simple JavaScript Application that stores all of the Bible Verses I have in my real life Verse Box!
