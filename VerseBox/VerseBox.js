@@ -37,6 +37,7 @@ console.log("Here are the verses I have gotton from 7-9: [To view the full verse
 console.log("Psalms 145:9 [Type 'PSALMSONEFOUR']");
 console.log("Psalms 118:24 [Type 'PSALMSONEEONE']");
 console.log("James 1:17 [Type 'JAMESONE']");
+console.log("Psalms 117: [Type 'PSALMSONESEVENTEEN']");
 prompt("So which verse do you want to view? Type the word inside of the brackets to view that particular verse.");
 if(prompt = "psalmsonefour".toUppercase) {
 	console.log("Psalms 145:9: 'The Lord is good to all'.");
@@ -44,6 +45,8 @@ if(prompt = "psalmsonefour".toUppercase) {
 	console.log("Psalms 118:24: 'This is the day the Lord has made. Let us rejoice and be glad in it'.");
 } else if (prompt = "jamesone".toUppercase) {
 	console.log("James 1:17: 'Every good gift and every perfect gift is from above'.");
+} else if (prompt = "psalmsoneseventeen".toUppercase) {
+	console.log("Psalms 117: 'Praise the Lord, all nations! Extol him, all peoples! For great is his steadfast love toward us, and the faithfulness of the Lord endures forever. Praise the Lord!'.");
 } else {
 	console.log("Oops! It didn't work...Try typing in one of the words inside the brackets above to view the full verse!");
 }
