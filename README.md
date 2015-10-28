@@ -19,6 +19,9 @@ Thank You and God Bless!
 (:octocat: :+1:) :crown: :-1:
 - - - - - - - - - -
 My GitHub: github.com/JwBZx
+
 My Tumblr/Blog: jwbzx.tumblr.com
+
 My Company's Website: soderminal.weebly.com
+
 My Company's Tumblr/Blog: soderminal.tumblr.com
