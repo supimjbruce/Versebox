@@ -56,3 +56,12 @@ console.log("You can view this project on GitHub at github.com/JwBZx/VerseBox");
 console.log("If you want to offer any suggestions and comments, you can open an issue on this project on GitHub.");
 console.log("Thank You and God Bless!");
 console.log("---Jonathan Bruce (@JwBZx)");
+
+// Call to Action (The Afterparty):
+console.log("If you want to submit any Bible Verses that you want to see in this app,");
+console.log("all you need to do is open up an Issue on GitHub at github.com/JwBZx/VerseBox.");
+console.log("If you want to add a story of why you like this verse, that would be cool as well!");
+console.log("Thank You for helping make this app better, and for doing it for the Glory of God!");
+console.log("Thank You and God Bless!");
+
+// Insert Other Code Below...
