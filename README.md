@@ -4,7 +4,7 @@ Welcome to VerseBox!
 By @JwBZx (github.com/JwBZx)
 
 VerseBox is a simple JavaScript Application that stores all of the Bible Verses I have in my real life Verse Box!
-In this app, you can view the Verses my accountability partner Justin has given me to memorize, or you can view the verses I have gotton from 7-9, a Bible Study group I am in!
+In this app, you can view the Verses my accountability partner Justin has given me to memorize, or you can view the verses I have gotten from 7-9, a Bible Study group I am in!
 That is pretty much the jist of this app. It's basically just a way for me to store all of the Bible Verses I have been given to memorize.
 
 If you have any ideas, comments, suggestions, or anything else of that nature, feel free to open up an issue!
