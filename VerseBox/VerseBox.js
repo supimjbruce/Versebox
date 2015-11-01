@@ -64,4 +64,9 @@ console.log("If you want to add a story of why you like this verse, that would b
 console.log("Thank You for helping make this app better, and for doing it for the Glory of God!");
 console.log("Thank You and God Bless!");
 
-// Insert Other Code Below...
+// My JWB Links and Stuff:
+console.log(" ");
+console.log("My JWB GitHub: github.com/JwBZx");
+console.log("My JWB Tumblr: jwbzx.tumblr.com");
+console.log("My Company's Website: soderminal.weebly.com");
+console.log("My Company's Tumblr: soderminal.tumblr.com");
