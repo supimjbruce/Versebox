@@ -4,6 +4,7 @@ console.log("(You can view this Project on GitHub at github.com/JwBZx/VerseBox)"
 // I hope that you like this Project! Hopefully my accountability partner Justin will like it as well haha :P
 var justinVerses = false;
 var sevenNineVerses = false;
+var favoriteVerses = false;
 // Introduction:
 console.log("Welcome to VerseBox! This a simple JavaScript Application that stores all of the Bible Verses I have in my real life Verse Box!");
 console.log("In this app, you can view the Verses my accountability partner Justin has given me, or you can view the verses I have gotton from 7-9, a Bible Study group I am in!");
@@ -23,14 +24,16 @@ if(prompt = "justin".toUppercase) {
 }
 // My Justin Verses:
 console.log("Here are the verses I have gotton from Justin: [To view the full verse, type the verse name as instructed below]");
-console.log("Verse");
+console.log("2 Timothy 1:7 [Type 'TWOTIMOTHY']");
 console.log("Verse");
 console.log("Verse");
 console.log("Verse");
 console.log("Verse");
 console.log("Verse");
 prompt("So which verse do you want to view? Type the word inside of the brackets to view that particular verse.");
-if(prompt =
+if(prompt = "twotimothy".toUppercase) {
+	console.log("2 Timothy 1:7: 'For the spirit God gave us does not make us timid, but gives us power, love, and seld-discipline'.");
+}
 
 // My 7-9 Verses:
 console.log("Here are the verses I have gotton from 7-9: [To view the full verse, type the verse name as instructed below]");
@@ -50,6 +53,12 @@ if(prompt = "psalmsonefour".toUppercase) {
 } else {
 	console.log("Oops! It didn't work...Try typing in one of the words inside the brackets above to view the full verse!");
 }
+
+// My Favorite Verses:
+console.log("Here are some of my favorite verses that are not in my Verse Box! [To view the full verse, type the verse name as instructed below]");
+console.log("1 Corinthians 10:13 [Type 'CORINTHIANSTEN']");
+console.log("Romans 8:1 [Type 'ROMANSEIGHTONE']");
+prompt("So which verse do you want to view? Type the word inside of the brackets to view that particular verse.");
 // The Finish Line (End):
 console.log("Well, that is the end of this app! I hope you liked it!");
 console.log("You can view this project on GitHub at github.com/JwBZx/VerseBox");
