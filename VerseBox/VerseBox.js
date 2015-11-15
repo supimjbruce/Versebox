@@ -25,7 +25,7 @@ if(prompt = "justin".toUppercase) {
 // My Justin Verses:
 console.log("Here are the verses I have gotton from Justin: [To view the full verse, type the verse name as instructed below]");
 console.log("2 Timothy 1:7 [Type 'TWOTIMOTHY']");
-console.log("Verse");
+console.log("Hebrews 4:12 [Type 'HEBREWSFOUR']");
 console.log("Verse");
 console.log("Verse");
 console.log("Verse");
@@ -33,6 +33,9 @@ console.log("Verse");
 prompt("So which verse do you want to view? Type the word inside of the brackets to view that particular verse.");
 if(prompt = "twotimothy".toUppercase) {
 	console.log("2 Timothy 1:7: 'For the spirit God gave us does not make us timid, but gives us power, love, and seld-discipline'.");
+} else if {
+	(prompt = "hebrewsfour".toUppercase) {
+		console.log("Hebrews 4:12: 'For the Word of God is alive and acive. Sharper than any double-edged sword; it penetrates even to dividing soul and spirit, joints & marrow; it judges the thoughts and attitudes of the heart'.");
 }
 
 // My 7-9 Verses:
