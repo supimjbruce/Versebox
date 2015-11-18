@@ -28,8 +28,8 @@ console.log("2 Timothy 1:7 [Type 'TWOTIMOTHY']");
 console.log("Hebrews 4:12 [Type 'HEBREWSFOUR']");
 console.log("Acts 20:26-27 [Type 'ACTSTWENTY']");
 console.log("1 John 1:6-7 [Type 'FIRSTJOHNSIX']");
-console.log("Verse");
-console.log("Verse");
+console.log("Luke 14:23 [Type 'LUKEFOURTEEN']");
+console.log("1 Corinthians 1:30 [Type 'FIRSTCORINTHIANSONETHIRTY']");
 prompt("So which verse do you want to view? Type the word inside of the brackets to view that particular verse.");
 if(prompt = "twotimothy".toUppercase) {
 	console.log("2 Timothy 1:7: 'For the spirit God gave us does not make us timid, but gives us power, love, and seld-discipline'.");
@@ -37,8 +37,12 @@ if(prompt = "twotimothy".toUppercase) {
 		console.log("Hebrews 4:12: 'For the Word of God is alive and acive. Sharper than any double-edged sword; it penetrates even to dividing soul and spirit, joints & marrow; it judges the thoughts and attitudes of the heart'.");
 } else if(prompt = "actstwenty".toUppercase) {
 		console.log("Acts 20:26-27: 'Therefore, I declare to you today that I am innocent of the blood of everyone. For I have not hesitated to proclaim to you the whole will of God'.");
-} else if(prompt="firstjohnsix".toUppercase) {
+} else if(prompt = "firstjohnsix".toUppercase) {
 		console.log("1 John 1:6-7: 'If we claim to have fellowship with Him and yet walk in the darkness, we lie and do not live out the truth. But if we walk in the light, as He is in the light, we have fellowship with one another, and the blood of Jesus, His Son, purifies us from all sin'.");
+} else if(prompt = "lukefourteen".toUppercase) {
+		console.log("Luke 14:23: 'Then the master told his servant, go out to the roads and country lanes and compel them to come in, so that my house will be full'.");
+} else if(prompt = "firstcorinthiansonethirty".toUppercase) {
+		console.log("1 Corinthians 1:30: 'It is because of him that you are in Christ Jesus, who has become for us wisdom from God-that is, our righteousness, holiness, and redemption'.");
 }
 
 // My 7-9 Verses:
