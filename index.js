@@ -1,4 +1,4 @@
-/* VerseBox */
+/* Versebox */
 /* Home Page [index.js] */
 
 /*By Jonathan Bruce
@@ -36,7 +36,7 @@ export default function VerseBoxHomeScreen() {
             </View>
             <View style={styles.footer}>
               <View /*style={styles.middleTitle}*/>
-                  <Text style={styles.header}>VerseBox</Text>
+                  <Text style={styles.header}>Versebox</Text>
                   <Text style={styles.subTitle}>A simple application for<br></br>storing your Bible verses</Text>
               </View>
               <View>
